@@ -1,4 +1,6 @@
-## Algoritmos de Ordenação em Java e em C
+### Algoritmos de Ordenação em Java e em C
+
+---
 
 Nesse repositório, é possível encontrar <strong>6 diferentes algoritmos de ordenação de dados</strong>, um campo de estudo que se faz de grande importância na Computação. Com isso, o principal objetivo é a disposição dos dados em uma ordem, sendo muito útil para a realização de operações de busca e de indexação de registros.
 
@@ -12,9 +14,9 @@ Os algoritmos aqui contidos são:
 - Merge Sort - combinação de dois ou mais conjuntos ordenados;
 - Heap Sort - organização como se fosse uma árvore binária.
 
----
-
 ### Tempo de Execução
+
+---
 
 Uma importante característica a ser levada em consideração na utilização desses algoritmos é o <storng>tempo de execução</strong>, de forma a ter sido testado conforme mostrado nos códigos abaixo.
 
