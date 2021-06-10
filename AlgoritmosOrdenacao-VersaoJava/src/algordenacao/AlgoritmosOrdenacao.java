@@ -32,7 +32,7 @@ public class AlgoritmosOrdenacao {
             opcao = scanner.nextInt();
             char cOp = (char) opcao;
 
-            t1 = System.currentTimeMillis();;
+            t1 = System.currentTimeMillis();
             System.arraycopy(original, 0, ordenado, 0, original.length);
 
             switch (cOp) {
