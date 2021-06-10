@@ -12,6 +12,8 @@ Os algoritmos aqui contidos são:
 - Merge Sort - combinação de dois ou mais conjuntos ordenados;
 - Heap Sort - organização como se fosse uma árvore binária.
 
+---
+
 ### Tempo de Execução
 
 Uma importante característica a ser levada em consideração na utilização desses algoritmos é o <storng>tempo de execução</strong>, de forma a ter sido testado conforme mostrado nos códigos abaixo.
@@ -29,7 +31,6 @@ t2 = System.currentTimeMillis();
 System.out.println("Duracao em microssegundos: " + (t2 - t1));
 ```
 
-
 Em C:
 
 ```C
@@ -45,4 +46,3 @@ unsigned long long current_timestamp() {
 ```C
 printf("Duracao em microssegundos: %lld\n", t2 - t1);
 ```
-
