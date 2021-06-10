@@ -5,14 +5,18 @@ Nesse repositório, é possível encontrar <strong>6 diferentes algoritmos de or
 de forma que, ao iniciar o programa, é pedido ao usuário um inteiro para criação de um vetor que será desorganizado e depois organizado conforme a opção escolhida.
 
 Os algoritmos aqui contidos são:
-- Insertion Sort;
-- Shell Sort;
-- Bubble Sort
-- Quick Sort;
-- Merge Sort;
-- Heap Sort.
+- Insertion Sort - método de inserção;
+- Shell Sort - método de inserção;
+- Bubble Sort - apresenta baixo desempenho;
+- Quick Sort - utiliza partição e permuta;
+- Merge Sort - combinação de dois ou mais conjuntos ordenados;
+- Heap Sort - organização como se fosse uma árvore binária.
 
-Uma importante característica a ser levada em consideração na utilização desses algoritmos é o <storng>tempo de execução</strong>, de forma a ter sido testado conforme mostrado nos códigos abaixo. No primeiro de ambos os exemplos, a variável é definida em um momento anterior à ordenação, sendo o segundo após, e sua diferença sendo o tempo de fato que foi utilizado.
+### Tempo de Execução
+
+Uma importante característica a ser levada em consideração na utilização desses algoritmos é o <storng>tempo de execução</strong>, de forma a ter sido testado conforme mostrado nos códigos abaixo.
+
+No primeiro de ambos os exemplos, a variável é definida em um momento anterior à ordenação, sendo o segundo após, e sua diferença sendo o tempo de fato que foi utilizado.
 
 Em Java:
 
